@@ -43,4 +43,8 @@ public class EncryptDecryptUtils {
 		Key key = new SecretKeySpec(keyValue, ALGO);
 		return key;
 	}
+	
+	public static void main(String[] args){
+	
+	}
 }
